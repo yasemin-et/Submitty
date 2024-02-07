@@ -1,0 +1,7 @@
+my
+student
+test
+history
+time
+date
+exit
